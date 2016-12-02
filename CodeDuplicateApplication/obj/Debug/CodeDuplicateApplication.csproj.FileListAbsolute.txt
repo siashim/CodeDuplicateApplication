@@ -1,0 +1,6 @@
+c:\users\the vash\documents\visual studio 2015\Projects\CodeDuplicateApplication\CodeDuplicateApplication\bin\Debug\CodeDuplicateApplication.exe.config
+c:\users\the vash\documents\visual studio 2015\Projects\CodeDuplicateApplication\CodeDuplicateApplication\bin\Debug\CodeDuplicateApplication.exe
+c:\users\the vash\documents\visual studio 2015\Projects\CodeDuplicateApplication\CodeDuplicateApplication\bin\Debug\CodeDuplicateApplication.pdb
+c:\users\the vash\documents\visual studio 2015\Projects\CodeDuplicateApplication\CodeDuplicateApplication\obj\Debug\CodeDuplicateApplication.csprojResolveAssemblyReference.cache
+c:\users\the vash\documents\visual studio 2015\Projects\CodeDuplicateApplication\CodeDuplicateApplication\obj\Debug\CodeDuplicateApplication.exe
+c:\users\the vash\documents\visual studio 2015\Projects\CodeDuplicateApplication\CodeDuplicateApplication\obj\Debug\CodeDuplicateApplication.pdb
