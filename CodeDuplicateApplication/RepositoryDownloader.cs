@@ -6,7 +6,7 @@ namespace CodeDuplicateApplication
 {
     class RepositoryDownloader
     {
-        // Seetting the directory path to be in My Documents and naming the
+        // Setting the directory path to be in My Documents and naming the
         // new directory
         private static string directoryPath = 
             Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments) 
